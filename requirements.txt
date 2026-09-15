@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+requests
